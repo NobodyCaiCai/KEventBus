@@ -1,6 +1,6 @@
-package com.caicai.KEventBus.handler
+package com.caicai.kEventBus.handler
 
-import com.caicai.KEventBus.Subscription
+import com.caicai.kEventBus.Subscription
 
 interface EventHandler {
     fun handleEvent(subscription: Subscription, event: Any?)

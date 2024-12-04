@@ -11,9 +11,9 @@ import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-import com.caicai.KEventBus.EventBus
-import com.caicai.KEventBus.Subscriber
-import com.caicai.KEventBus.ThreadMode
+import com.caicai.kEventBus.EventBus
+import com.caicai.kEventBus.Subscriber
+import com.caicai.kEventBus.ThreadMode
 import com.caicai.kEventBus_demo.R
 import com.caicai.kEventBus_demo.bean.User
 

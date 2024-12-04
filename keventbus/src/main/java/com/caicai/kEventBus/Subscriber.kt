@@ -1,5 +1,4 @@
-package com.caicai.KEventBus
-
+package com.caicai.kEventBus
 
 @Retention(AnnotationRetention.RUNTIME)
 @Target(AnnotationTarget.FUNCTION)

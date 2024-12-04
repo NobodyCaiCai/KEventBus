@@ -1,4 +1,4 @@
-package com.caicai.KEventBus
+package com.caicai.kEventBus
 
 data class EventType(
     val paramClass: Class<*>, val tag: String = DEFAULT_TAG, val event: Any? = null

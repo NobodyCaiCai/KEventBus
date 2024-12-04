@@ -1,4 +1,4 @@
-package com.caicai.KEventBus
+package com.caicai.kEventBus
 
 import android.util.Log
 import java.util.concurrent.CopyOnWriteArrayList

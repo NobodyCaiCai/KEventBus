@@ -10,8 +10,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import android.widget.Toast
 
-import com.caicai.KEventBus.EventBus
-import com.caicai.KEventBus.Subscriber
+import com.caicai.kEventBus.EventBus
+import com.caicai.kEventBus.Subscriber
 import com.caicai.kEventBus_demo.R
 import com.caicai.kEventBus_demo.StickyActivity
 import com.caicai.kEventBus_demo.bean.StickyUser

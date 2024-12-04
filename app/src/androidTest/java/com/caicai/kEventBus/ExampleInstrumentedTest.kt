@@ -1,4 +1,4 @@
-package com.caicai.KEventBus
+package com.caicai.kEventBus
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

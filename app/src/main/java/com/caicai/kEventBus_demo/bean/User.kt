@@ -12,9 +12,8 @@ open class User(val name: String) {
     }
 
     override fun hashCode(): Int {
-        return name.hashCode()
+        return 31 * (name.hashCode())
     }
-
     override fun toString(): String {
         return "User(name ='$name')"
     }

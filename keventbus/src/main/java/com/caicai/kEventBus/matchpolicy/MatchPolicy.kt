@@ -1,6 +1,6 @@
-package com.caicai.KEventBus.matchpolicy
+package com.caicai.kEventBus.matchpolicy
 
-import com.caicai.KEventBus.EventType
+import com.caicai.kEventBus.EventType
 
 interface MatchPolicy {
     fun findMatchEventTypes(type: EventType, aEvent: Any?): List<EventType>

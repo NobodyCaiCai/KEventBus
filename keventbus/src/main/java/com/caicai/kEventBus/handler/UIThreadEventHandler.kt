@@ -1,8 +1,8 @@
-package com.caicai.KEventBus.handler
+package com.caicai.kEventBus.handler
 
 import android.os.Handler
 import android.os.Looper
-import com.caicai.KEventBus.Subscription
+import com.caicai.kEventBus.Subscription
 
 class UIThreadEventHandler: EventHandler {
 

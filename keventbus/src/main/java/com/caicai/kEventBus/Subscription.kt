@@ -1,4 +1,4 @@
-package com.caicai.KEventBus
+package com.caicai.kEventBus
 
 import java.lang.ref.WeakReference
 import java.lang.reflect.Method

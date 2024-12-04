@@ -4,7 +4,7 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 
 import com.caicai.kEventBus_demo.bean.User
-import com.caicai.KEventBus.Subscriber
+import com.caicai.kEventBus.Subscriber
 
 open class BaseFragment : Fragment() {
 

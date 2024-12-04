@@ -5,8 +5,8 @@ import android.util.Log
 import android.widget.TextView
 import androidx.activity.ComponentActivity
 
-import com.caicai.KEventBus.EventBus
-import com.caicai.KEventBus.Subscriber
+import com.caicai.kEventBus.EventBus
+import com.caicai.kEventBus.Subscriber
 import com.caicai.kEventBus_demo.bean.StickyUser
 
 class StickyActivity : ComponentActivity() {

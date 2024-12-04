@@ -1,4 +1,4 @@
-package com.caicai.KEventBus
+package com.caicai.kEventBus
 
 enum class ThreadMode {
     MAIN,
